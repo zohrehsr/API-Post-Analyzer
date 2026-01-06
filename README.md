@@ -13,10 +13,8 @@ A small Python project to fetch posts from a public API, analyze them, and filte
 ## Installation & Run
 1. Make sure Python 3.7+ is installed
 2. Install the required package:
-```bash
 pip install requests
 3. Run the script:
-```bash
 python api_post_analyzer.py
 4. Enter a userId to filter posts or press Enter to skip filtering.
 
